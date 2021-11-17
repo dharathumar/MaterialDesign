@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MaterialDesign</string>
+    <string name="contact_form">Contact Form</string>
+    <string name="name">Name</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="Phone_Number">Phone Number</string>
+    <string name="save">Save</string>
+</resources>
